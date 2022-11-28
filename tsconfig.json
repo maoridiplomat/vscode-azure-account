@@ -18,6 +18,7 @@
 		"skipLibCheck": true, // Some declarations in http-proxy-agent and https-proxy-agent have issues
 	},
 	"exclude": [
+
 		"node_modules",
 		"gulpfile.ts",
 		"sample/*"
